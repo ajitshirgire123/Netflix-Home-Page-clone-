@@ -16,10 +16,7 @@ No frameworks were used — only **HTML & CSS**.
 - Completed within **1 hour**
 
 ## 📷 Preview
-(Add screenshot here)
-
-## 🔗 Live Demo
-(If hosted, e.g., GitHub Pages/Netlify)
+![Uploading image.png…]()
 
 ## 💻 How to Use
 1. Clone the repository  
